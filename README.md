@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OnyebekehCode
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
+
+- 🌱 I am a frontend Developer, I build websites Interfaces with great user experience 
 .
 - 📫 How to reach me x.com/samuelonyebekeh
 
